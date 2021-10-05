@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam-tr
+- 👋 Hi, I’m @shivamt-tr
 - ✨ I have completed my Bachelors in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur
 - 👀 I’m interested in python, machine learning and computer vision
 - 🌱 I’m currently aspiring for a masters degree in Computer Science
