@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamt-tr
-- ✨ I have completed my Bachelors in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur
-- 👀 I’m interested in python, machine learning and computer vision
-- 🌱 I’m currently aspiring for a masters degree in Computer Science
+- ✨ I am currently an MS (By Research), Computer Science and Engineering Student at Indian Institute of Technology, Kanpur
+- 👀 I'm interested in machine learning and computer vision problems
+- 🌱 I’m aspiring for a research career in Computer Science
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamtripathi28/)
 
 <!---
