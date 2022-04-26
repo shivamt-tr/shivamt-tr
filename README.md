@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamt-tr
+- 👋 Hi, I’m Shivam Tripathi
 - ✨ I am currently an MS (By Research), Computer Science and Engineering Student at Indian Institute of Technology, Kanpur
 - 👀 I'm interested in machine learning and computer vision problems
 - 🌱 I’m aspiring for a research career in Computer Science
