@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivam Tripathi
-- ✨ I am currently an MS (By Research), Computer Science and Engineering Student at Indian Institute of Technology, Kanpur
-- 👀 I'm interested in machine learning and computer vision problems
-- 🌱 I’m aspiring for a research career in Computer Science
+- ✨ I am currently a Senior Engineer at Samsung R&D Institute, Bangalore, and an MS (By Research) student in Computer Science and Engineering at the Indian Institute of Technology, Kanpur
+- 👀 I'm interested in computer vision applications and research in multi-modal learning, creative editing/manipulation using generative AI, etc.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamtripathi28/)
 
 <!---
